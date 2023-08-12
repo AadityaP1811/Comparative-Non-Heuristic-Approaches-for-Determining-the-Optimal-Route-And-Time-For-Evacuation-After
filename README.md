@@ -13,14 +13,12 @@ On Windows
 go into the directory then Shift+Right Click -> Open in Powershell Window Here
 
 On Linux/Mac
-go into the directory the Right Click -> Open in Terminal
+go into the directory Right Click -> Open in Terminal
 
 Install node modules using
-
-npm install
+| npm install |
 
 To start the application
-
-npm run dev
+| npm run dev |
 
 Bootstrapped using Vite
